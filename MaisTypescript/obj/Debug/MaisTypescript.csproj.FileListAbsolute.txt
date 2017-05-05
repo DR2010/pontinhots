@@ -1,0 +1,6 @@
+D:\I_Daniel\Onedrive\I_Projects\Year2017\MaisTypescript\MaisTypescript\bin\MaisTypescript.dll.config
+D:\I_Daniel\Onedrive\I_Projects\Year2017\MaisTypescript\MaisTypescript\bin\MaisTypescript.dll
+D:\I_Daniel\Onedrive\I_Projects\Year2017\MaisTypescript\MaisTypescript\bin\MaisTypescript.pdb
+D:\I_Daniel\Onedrive\I_Projects\Year2017\MaisTypescript\MaisTypescript\obj\Debug\MaisTypescript.dll
+D:\I_Daniel\Onedrive\I_Projects\Year2017\MaisTypescript\MaisTypescript\obj\Debug\MaisTypescript.pdb
+D:\I_Daniel\Onedrive\I_Projects\Year2017\MaisTypescript\MaisTypescript\obj\Debug\MaisTypescript.csprojResolveAssemblyReference.cache
